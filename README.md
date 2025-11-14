@@ -188,4 +188,6 @@ AI SECSPP (id: PN-IV-P6-6.3-SOL-2024-2-0312), and by the
 Free State of Bavaria under the DSgenAI project (Grant Nr.:
 RMF-SG20-3410-2-18-4)
       
+## LICENSE
 
+The code and data is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)

@@ -190,4 +190,4 @@ RMF-SG20-3410-2-18-4)
       
 ## LICENSE
 
-The code and data is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+The code and data is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
